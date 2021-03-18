@@ -1,0 +1,38 @@
+* {
+  font-family: sans-serif;
+}
+
+.navigation {
+  background-color: rosybrown;
+  padding: 10px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.nav-logo {
+  padding-top: 10px;
+  display: inline-block;
+  display: left;
+  width: 150px;
+}
+
+.nav-logo img {
+  width: 100%;
+}
+
+.nav-items {
+  float: right;
+}
+
+.nav-items ul {
+  padding: 0;
+}
+
+.nav-items ul li {
+  display: inline-block;
+  margin: 0 5px;
+  
+}
